@@ -1,0 +1,65 @@
+/* .navbar input[type="checkbox"],
+.navbar .hamburger-lines {
+  display: none;
+}
+
+.navbar {
+  box-shadow: 0px 5px 10px 0px #aaa;
+  position: fixed !important;
+  background: #fff;
+  color: black;
+  z-index: 999;
+  opacity: 0.97;
+  width: 100%;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 64%;
+}
+
+.menu-items {
+  display: flex;
+}
+
+.menu-items li {
+  list-style: none;
+  margin-left: 1.8rem;
+  font-size: 1.5rem;
+}
+
+.menu-items a {
+  text-decoration: none;
+  color: #444;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.menu-items a:hover {
+  background-color: aquamarine;
+  color: #444;
+  font-weight: 500;
+}
+
+.logo a {
+  font-size: 25px;
+  color: aqua !important;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.profile-btn {
+}
+
+.profile-data {
+  display: none;
+}
+
+.profile-btn:hover + .profile-data {
+  display: block;
+  color: green;
+  background-color: azure;
+} */

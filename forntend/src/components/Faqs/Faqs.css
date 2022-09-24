@@ -1,0 +1,23 @@
+.faqs h2 {
+  color: rgb(255, 47, 0);
+}
+.faqs p {
+  color: rgb(80, 135, 213);
+  font-size: 16px;
+  padding: 0 30px;
+}
+
+.faqs .row {
+  display: flex;
+  flex-direction: column;
+  background-color: beige;
+  border: 3px dashed red;
+  border-radius: 15px;
+  margin-bottom: 25px;
+  
+}
+
+.row .col{
+  width: 100vw;
+  padding: 0 30px;
+}
